@@ -1,0 +1,7 @@
+{
+  "name": "电影分镜网格生成器",
+  "description": "根据背景图和人物图生成专业的 3x3 电影分镜网格。在 9 个不同的镜头中严格保持人物、服装和光线的一致性。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
